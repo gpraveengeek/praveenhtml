@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <title>PRAVEEN'S WORLD</title>
+    <head>
+        <body>
+            <style>
+body {
+  background-image: url(background2.jpg);
+}
+</style>
+          <style>
+                h1 {
+    text-align: center;
+}
+                h2 {
+    text-align: center;
+}
+            </style>
+            <style>
+                div {
+    text-align: center;
+}
+                p {
+    text-align: center;
+}
+                button {
+    text-align: center;
+}
+                button {
+    transition-duration: 0.4s;
+}
+
+                button:hover {
+    background-color: #04AA6D; /* Green */
+    color: white;
+}
+
+            </style>
+            <h1 style="color: white;">A-WORLD</h1>
+            <br>
+            <div>
+            <nav>
+            <a href="demo.html">HOME</a>       |
+            <a href="demo.html">ABOUT</a>      |
+            <a href="demo.html">CONTACT</a>    |
+            <a href="demo.html">SERVICES</a>
+            </nav>
+            </div>
+            <br>
+            <h2 style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">PRAVEEN GUNNALA</h2>
+            <br>
+            <br>
+            <p>If you tell the truth, you don't have to remember anything. ~Mark Twain</p>
+            <br>
+            <br>
+            <div>
+            <button type="button">Get Quote</button>
+            </div>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <marquee>hi this is praveen and welcome to my page</marquee>
+        </body>
+    </head>
+    <body>
+        
+        <br>
+        <br>
+        <br>
+
+    </body>
+</html>
